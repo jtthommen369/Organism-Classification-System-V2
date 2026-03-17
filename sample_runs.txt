@@ -1,0 +1,59 @@
+
+Movement detected? yes/no: yes
+Heat detected? yes/no: yes
+Color: red
+Angular? yes/no: no
+Shape (spherical/irregular/flat): irregular
+Facial features present? yes/no: yes
+Density (light/medium/dense): medium
+Minerals present? yes/no: no
+Kingdom: Animal
+Backbone present? yes/no: yes
+Warm blooded? yes/no: yes
+Fur or feathers? fur
+Mammal
+
+Movement detected? yes/no: no
+Heat detected? yes/no: no
+Color: green
+Angular? yes/no: no
+Shape (spherical/irregular/flat): spherical
+Facial features present? yes/no: no
+Density (light/medium/dense): light
+Minerals present? yes/no: no
+Classification uncertain
+
+Movement detected? yes/no: no
+Heat detected? yes/no: no
+Color: green
+Angular? yes/no: no
+Shape (spherical/irregular/flat): irregular
+Facial features present? yes/no: no
+Density (light/medium/dense): medium
+Minerals present? yes/no: no
+Kingdom: Plant
+Height in feet: 10
+Plant type: Shrub
+Leaf type (needle/broad/blade): needle
+Pine smell? yes/no: yes
+Plant subtype: Evergreen
+
+Movement detected? yes/no: no
+Heat detected? yes/no: no
+Color: white
+Angular? yes/no: yes
+Shape (spherical/irregular/flat): spherical
+Facial features present? yes/no: no
+Density (light/medium/dense): light
+Minerals present? yes/no: no
+Kingdom: Fungus or Protist
+
+Movement detected? yes/no: no
+Heat detected? yes/no: no
+Color: gray
+Angular? yes/no: yes
+Shape (spherical/irregular/flat): flat
+Facial features present? yes/no: no
+Density (light/medium/dense): dense
+Minerals present? yes/no: yes
+Classification: Rock or Mineral
